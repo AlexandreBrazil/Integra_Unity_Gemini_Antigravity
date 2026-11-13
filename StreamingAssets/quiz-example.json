@@ -1,0 +1,22 @@
+{
+  "questions": [
+    {
+      "prompt": "Qual componente é apropriado para detectar colisões em um jogo 2D?",
+      "answers": [
+        "BoxCollider2D",
+        "BoxCollider",
+        "MeshCollider"
+      ],
+      "correctAnswerIndex": 0
+    },
+    {
+      "prompt": "Onde devem ficar as regras de pontuação neste exemplo?",
+      "answers": [
+        "No componente visual dos botões",
+        "Na sessão pedagógica do quiz",
+        "No arquivo HTML do WebGL"
+      ],
+      "correctAnswerIndex": 1
+    }
+  ]
+}

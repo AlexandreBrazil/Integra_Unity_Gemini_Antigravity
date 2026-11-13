@@ -1,0 +1,49 @@
+{
+  "badge": "TESTE MULTIPLATAFORMA: WINDOWS + ANDROID + iOS",
+  "titulo": "DRAG AND DROP: EQUIPAMENTOS DE MEDIÇÃO (SST)",
+  "instrucaoInicial": "Arraste cada equipamento da esquerda (com mouse ou dedo) até a medição correspondente à direita.",
+  "feedbackAcerto": "Correto! O equipamento '{0}' foi associado à medição certa.",
+  "feedbackErro": "Associação incorreta para '{0}'. Verifique a unidade de medida e tente novamente!",
+  "feedbackConcluido": "Parabéns! Todas as 3 associações foram concluídas! Clique em Reiniciar Atividade para testar novamente.",
+  "textoBotaoReiniciar": "Reiniciar Atividade",
+  "itens": [
+    {
+      "elementName": "dragItem1",
+      "chaveAlvo": "ruido",
+      "titulo": "Decibelímetro",
+      "subtitulo": "Unidade: dB(A)"
+    },
+    {
+      "elementName": "dragItem2",
+      "chaveAlvo": "iluminancia",
+      "titulo": "Luxímetro",
+      "subtitulo": "Unidade: Lux (lx)"
+    },
+    {
+      "elementName": "dragItem3",
+      "chaveAlvo": "quimicos",
+      "titulo": "Bomba Gravimétrica",
+      "subtitulo": "Unidade: L/min"
+    }
+  ],
+  "alvos": [
+    {
+      "elementName": "dropZone1",
+      "chaveAceita": "iluminancia",
+      "titulo": "Avaliação de Iluminância",
+      "descricao": "Mede o nível de iluminação nos postos de trabalho (NHO 11)."
+    },
+    {
+      "elementName": "dropZone2",
+      "chaveAceita": "quimicos",
+      "titulo": "Coleta de Agentes Químicos",
+      "descricao": "Aspira ar em vazão constante através do amostrador (NHO 08)."
+    },
+    {
+      "elementName": "dropZone3",
+      "chaveAceita": "ruido",
+      "titulo": "Avaliação de Ruído Ocupacional",
+      "descricao": "Mede o nível de pressão sonora no ambiente laboral (NHO 01)."
+    }
+  ]
+}

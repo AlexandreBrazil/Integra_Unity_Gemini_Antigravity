@@ -1,0 +1,127 @@
+{
+  "telaInicial": "intro",
+  "formatoProgressoParcial": "Progresso: {0} de {1} atividades visitadas.",
+  "formatoProgressoConcluido": "Todas as {1} atividades foram concluídas! Clique em Finalizar para avançar.",
+  "textos": [
+    {
+      "elementName": "badgeIntro",
+      "text": "FRAMEWORK DE NAVEGAÇÃO v5"
+    },
+    {
+      "elementName": "lblTituloIntro",
+      "text": "BEM-VINDO AO OBJETO DE APRENDIZAGEM"
+    },
+    {
+      "elementName": "lblDescIntro",
+      "text": "Este fluxo demonstra o roteamento 100% orientado a dados (Zero Hardcode) com memória pedagógica dinâmica e conteúdo carregado de StreamingAssets. Clique abaixo para acessar o tutorial inicial."
+    },
+    {
+      "elementName": "btnIrTutorial",
+      "text": "Ir para o Tutorial"
+    },
+    {
+      "elementName": "badgeTutorial",
+      "text": "ETAPA DE ORIENTAÇÃO"
+    },
+    {
+      "elementName": "lblTituloTutorial",
+      "text": "TUTORIAL DE NAVEGAÇÃO"
+    },
+    {
+      "elementName": "lblTutorialCompleto",
+      "text": "1ª Visita (Tutorial Completo): No menu a seguir, você encontrará 3 atividades práticas. Visite todas as atividades obrigatórias para transformar o botão Voltar em Finalizar no menu principal!"
+    },
+    {
+      "elementName": "lblTutorialResumido",
+      "text": "Resumo Rápido (Você já viu este tutorial): Basta acessar todas as atividades no menu para habilitar a conclusão da sessão."
+    },
+    {
+      "elementName": "btnIrMenu",
+      "text": "Ir para o Menu"
+    },
+    {
+      "elementName": "lblTituloMenu",
+      "text": "MENU DE ATIVIDADES"
+    },
+    {
+      "elementName": "btnAbrirAtividade1",
+      "text": "Atividade 1"
+    },
+    {
+      "elementName": "btnAbrirAtividade2",
+      "text": "Atividade 2"
+    },
+    {
+      "elementName": "btnAbrirAtividade3",
+      "text": "Atividade 3"
+    },
+    {
+      "elementName": "btnMenuVoltarOuFinalizar",
+      "text": "Voltar"
+    },
+    {
+      "elementName": "badgeAtiv1",
+      "text": "ATIVIDADE 1 DE 3"
+    },
+    {
+      "elementName": "lblTituloAtiv1",
+      "text": "ATIVIDADE 1: PREPARAÇÃO DO AMOSTRADOR"
+    },
+    {
+      "elementName": "lblDescAtiv1",
+      "text": "Você realizou a inspeção e abertura do duto de vidro do amostrador. Esta atividade obrigatória foi registrada automaticamente na memória da sessão."
+    },
+    {
+      "elementName": "btnVoltarAtividade1",
+      "text": "Voltar ao Menu"
+    },
+    {
+      "elementName": "badgeAtiv2",
+      "text": "ATIVIDADE 2 DE 3"
+    },
+    {
+      "elementName": "lblTituloAtiv2",
+      "text": "ATIVIDADE 2: CALIBRAÇÃO DE VAZÃO"
+    },
+    {
+      "elementName": "lblDescAtiv2",
+      "text": "Você conferiu os parâmetros da bomba de amostragem e do calibrador de vazão. Esta atividade obrigatória foi registrada automaticamente na memória da sessão."
+    },
+    {
+      "elementName": "btnVoltarAtividade2",
+      "text": "Voltar ao Menu"
+    },
+    {
+      "elementName": "badgeAtiv3",
+      "text": "ATIVIDADE 3 DE 3"
+    },
+    {
+      "elementName": "lblTituloAtiv3",
+      "text": "ATIVIDADE 3: REGISTRO TERMO-HIGROMÉTRICO"
+    },
+    {
+      "elementName": "lblDescAtiv3",
+      "text": "Você coletou as medições de temperatura, umidade e pressão barométrica do ambiente. Esta atividade obrigatória foi registrada automaticamente na memória da sessão."
+    },
+    {
+      "elementName": "btnVoltarAtividade3",
+      "text": "Voltar ao Menu"
+    },
+    {
+      "elementName": "badgeFinalizar",
+      "text": "ETAPA CONCLUÍDA"
+    },
+    {
+      "elementName": "lblTituloFinalizar",
+      "text": "PARABÉNS! TODAS AS ATIVIDADES FORAM CONCLUÍDAS"
+    },
+    {
+      "elementName": "lblDescFinalizar",
+      "text": "Você completou todas as atividades obrigatórias do Objeto de Aprendizagem. Clique no botão Reiniciar abaixo para zerar o histórico da sessão e retornar ao painel Intro."
+    },
+    {
+      "elementName": "btnReiniciar",
+      "text": "Reiniciar"
+    }
+  ]
+}
